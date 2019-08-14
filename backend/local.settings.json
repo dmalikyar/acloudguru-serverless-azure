@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "speakers_COSMOSDB" : "mongodb://dmalikyar:SsXgIhlwBFJuHeQ7OEz6oQggywQRXIDTjXHJSGwP4Y64jA4eV7itXCeKDJ7s42GkzHCT8QSKK0IqqDsGa5fL3w%3D%3D@dmalikyar.documents.azure.com:10255/?ssl=true&replicaSet=globaldb",
+    "eventGrid_TopicKey" : "/6g5Z4d8DJJUX33F05zJe2tc+NnZ5atZboK9VcNYJag="
+  },
+  "Host" : {"LocalHttpPort" : 7071, "CORS": "*"}
+}
