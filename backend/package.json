@@ -1,0 +1,17 @@
+{
+  "name": "speakerapp",
+  "version": "0.0.1",
+  "description": "A Cloud Guru Course",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.19.0",
+    "mongodb": "^3.3.0-beta2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "Daoud Malikyar",
+  "license": "ISC"
+}
